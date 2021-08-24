@@ -3,7 +3,6 @@
 - 👨‍💻 Atualmente trabalho com projetos próprios em Html, Css, JavaSCript e Lua.
 - 📚 Comecei a estudar há 2 meses começando com Html, Css, JavaScript, e agora estou aprendendo Lua.
 - 🎥 Estudei durante 1 ano Softwares sobre edição de imagem e edição de vídeo, Adobe Photoshop e Adobe Premiere.
-- 😄 Pronomes: ele/dele.
 
 <div>
   <a href="https://github.com/Schaustz">
