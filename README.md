@@ -3,7 +3,7 @@
 - 👨‍💻 Atualmente trabalho com projetos próprios em Html, Css, JavaSCript e Lua.
 - 📚 Comecei a estudar há 2 meses começando com Html, Css, JavaScript, e agora estou aprendendo Lua.
 - 🎥 Estudei durante 1 ano na Escola Saga, Softwares de edição de imagem e edição de vídeo, Adobe Photoshop / Adobe Premiere.
-
+##
 <div>
   <a href="https://github.com/Schaustz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=schaustz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
