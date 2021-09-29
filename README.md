@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Gustavo Schaustz 😉
 
 - 👨‍💻 Atualmente trabalho com projetos próprios em Html, Css, JavaSCript e Lua.
-- 📚 Comecei a estudar há 2 meses começando com Html, Css, JavaScript, e agora estou aprendendo Lua.
+- 📚 Comecei a estudar há 3 meses começando com Html, Css, JavaScript, e agora estou aprendendo Lua.
 - 🎥 Estudei durante 1 ano na Escola Saga, Softwares de edição de imagem e edição de vídeo, Adobe Photoshop / Adobe Premiere.
 ##
 <div>
